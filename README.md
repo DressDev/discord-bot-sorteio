@@ -19,11 +19,11 @@ Um bot simples, persistente e visual para gerenciar sorteios no seu servidor Dis
 
 Digite o comando `/sorteio` em qualquer canal.
 
-> *O bot criará uma mensagem "rascunho" visível para todos, mas o menu de controle é secreto (apenas você vê).*
+> *O bot criará uma mensagem "rascunho" visível para todos, mas somente administradores podem interagir.*
 
-### 2️⃣ Configurando (Menu Admin)
+### 2️⃣ Configurando
 
-Ao criar o sorteio, clique no botão cinza **⚙️ Painel Admin**. Um menu exclusivo aparecerá para você:
+Ao criar o sorteio, use os botões de ✏️ Editar para configurar o sorteio:
 
 * **✏️ Editar Título:** Defina o nome do evento.
 
@@ -39,7 +39,7 @@ Ao criar o sorteio, clique no botão cinza **⚙️ Painel Admin**. Um menu excl
 
 ### 3️⃣ Iniciando
 
-Quando tudo estiver pronto, clique no botão verde **▶️ INICIAR SORTEIO** no Painel Admin.
+Quando tudo estiver pronto, clique no botão verde **▶️ INICIAR ** no final do Embed.
 
 > *O status muda para "Running", o cronômetro começa e o botão de "Participar" é liberado para os membros.*
 
